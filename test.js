@@ -1,3 +1,1 @@
-   localHandler({
-        "result":"我是远程JS带来的数据"
-    });
+alert('我是远程文件');
